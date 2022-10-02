@@ -1,1 +1,1 @@
-# BootStrap Prijects
+# BootStrap Projects
